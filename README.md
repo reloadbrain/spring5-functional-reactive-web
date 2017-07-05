@@ -1,6 +1,6 @@
-Funtional Reactive Web with Spring 5 - Still Milestone realease, but looks like of new exciting features ahead.
+Funtional Reactive Web with Spring 5 - Still in Milestone realease, but looks like alot of new and exciting features ahead.
 
-Trying out the new RouterFunction instad of the normal @RestController and Spring's Reactor's Mono and Flux
+Trying out the new RouterFunction instead of the normal @RestController and Spring's Reactor's Mono and Flux
 
 To launch it, run Spring5ReactiveWebApplication.java
 
